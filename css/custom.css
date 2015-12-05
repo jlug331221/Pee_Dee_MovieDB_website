@@ -1,0 +1,99 @@
+/* Beginning of navigation bar css */
+
+.navbar-default .container-fluid {
+    background-color: #592A8A;
+}
+
+.navbar-header .navbar-brand {
+    color: white;
+}
+
+.navbar-header .navbar-brand > a:hover {
+    background-color: black;
+    color: white;
+}
+
+.collapse .nav .link1 {
+    color: white;
+}
+
+.collapse .nav .link2 {
+    color: white;
+}
+
+.collapse .nav .link3 {
+    color: white;
+}
+
+.collapse .nav .link4 {
+    color: white;
+}
+
+.collapse .nav .link5 {
+    color: white;
+}
+
+.collapse .nav .link6 {
+    color: white;
+}
+
+.collapse .nav .link7 {
+    color: white;
+}
+
+.collapse .navbar-right .rightLink1 {
+    color: white;
+}
+
+.collapse .navbar-right .rightLink2 {
+    color: white;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: black;
+}
+
+.navbar-default .navbar-header .navbar-brand:hover {
+    color:black;
+}
+
+/* End of navigation bar CSS */
+
+
+.col-md-12 .btn {
+    background: #592A8A;
+}
+
+body {
+    /*background-color: #FFF5EE;*/
+    background-color: #E6E6FA;
+    padding-top: 70px;
+    /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+ul.genre-checkbox-group li { 
+    display:inline-block;
+    width:10em;
+} 
+
+ul.parental-rating-checkbox-group li { 
+    display:inline-block;
+    /* width:8em; */
+} 
+
+
+.jumbotron-special {
+    background-image: url(http://www.seriouseats.com/images/20080222-popcorn.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
